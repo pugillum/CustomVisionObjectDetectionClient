@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using WebEye.Controls.WinForms.WebCameraControl;
 
-namespace WindowsFormsApp1
+namespace CustomVisionObjectDetectionClient
 {
     public partial class Main : Form
     {
